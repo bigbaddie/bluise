@@ -1,10 +1,10 @@
 {
-  "title": "Homer",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "title": "Gabrielle Carteciano Dental Clinic",
+  "titleTemplate": "- Carteciano Dental",
+  "welcomeText": "# Gabrielle Carteciano Dental Clinic\n\nGeneral Dentistry, Orthodontics, Oral Surgery and Implant Dentistry",
+  "logo": "/images/uploads/carteciano-dental.jpg",
+  "icon": "/images/uploads/carper-dental-studio.jpg",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
-  "seoMetaImage": ""
+  "seoDescription": "General Dentistry, Orthodontics, Oral Surgery, Implant Dentistry in Santa Rosa City",
+  "seoMetaImage": "/images/uploads/carteciano-dental.jpg"
 }
