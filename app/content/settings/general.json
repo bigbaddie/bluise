@@ -1,10 +1,10 @@
 {
-  "title": "Gabrielle Carteciano Dental Clinic",
-  "titleTemplate": "- Carteciano Dental",
-  "welcomeText": "# Gabrielle Carteciano Dental Clinic\n\nGeneral Dentistry, Orthodontics, Oral Surgery and Implant Dentistry",
-  "logo": "/images/uploads/carper-dental-studio.jpg",
-  "icon": "/images/uploads/carper-dental-studio.jpg",
+  "title": "Test",
+  "titleTemplate": "Test",
+  "welcomeText": "# Test\n\nTest",
+  "logo": "/images/uploads/logo.png",
+  "icon": "/images/uploads/logo.svg",
   "loadingColor": "#0b3765",
-  "seoDescription": "General Dentistry, Orthodontics, Oral Surgery, Implant Dentistry in Santa Rosa City",
+  "seoDescription": "",
   "seoMetaImage": ""
 }
